@@ -1,5 +1,6 @@
 # Object file
 *.o
 /noadd
+!/noadd/node.txt
 # Ada Library Information
 *.ali
